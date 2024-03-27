@@ -1,4 +1,4 @@
-    # nepieciešamās bibliotēkas imports
+    # nepieciešamās bibliotēkas import
 import tkinter as tk
 import json
 from tkinter import messagebox
