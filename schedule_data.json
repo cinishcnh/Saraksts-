@@ -1,0 +1,635 @@
+{
+  "\uD83D\uDE8A 1: Imanta - Jugla": {
+    "Imanta": {
+      "Darba dienas": ["5   | 22 39 57",
+      "6   | 14 30 39 49 56",
+        "7   | 01 07 13 19 24 30 36 42 47 53 58",
+        "8   | 03 08 13 18 24 30 35 40 45 50 55",
+        "9   | 00 06 12 18 24 30 36 43 54",
+        "10 | 01 08 15 23 33 42 54",
+        "11 | 06 17 27 38 49 58",
+        "12 | 07 17 26 35 44 54",
+        "13 | 03 13 23 33 44 54",
+        "14 | 04 13 22 31 42 53",
+        "15 | 02 12 23 28 33 38 43 49 55",
+        "16 | 01 07 12 17 22 27 32 37 43 48 53 59",
+        "17 | 05 11 17 22 27 32 38 44 49 54",
+        "18 | 01 07 12 18 23 29 38 49 55",
+        "19 | 03 13 22 32 43 55",
+        "20 | 07 18 29 36 44 59",
+        "21 | 06 13 24 35 54",
+        "22 | 05 17 38 59",
+        "23 | 20 35 51",
+        "0   | 07"
+      ],
+      "Brīvdienas": [
+      "6   | 19 34 49",
+        "7   | 04 19 33 47 59",
+        "8   | 12 24 37 50",
+        "9   | 03 16 30 44 58",
+        "10 | 11 25 38 52",
+        "11 | 05 19 31 42 54",
+        "12 | 06 18 30 41 53",
+        "13 | 05 17 31 47 55",
+        "14 | 03 19 35 43 51",
+        "15 | 07 23 39 55",
+        "16 | 11 29 48",
+        "17 | 07 26 44",
+        "18 | 01 19 37 54",
+        "19 | 09 24 39 55",
+        "20 | 11 27 43 59",
+        "21 | 14 30 46",
+        "22 | 02 22 43 53",
+        "23 | 03 24 45",
+        "0   | 05"
+      ]
+    },
+    "Anniņmuižas bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kleistu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Imantas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kurzemes prospekts": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Jūrmalas gatve": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Botāniskais dārzs/Rīgas Stradiņa universitāte": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Baldones iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kalnciema iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nometņu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "A.Grīna bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Uzvaras bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā bibliotēka": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Grēcinieku iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "13.janvāra iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Stacijas laukums": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Merķeļa iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Dzirnavu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ģertrūdes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Bērnu pasaule": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Tallinas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Sporta nams 'Daugava'": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Sporta nams 'Daugava'": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Pērnavas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Brīvības iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "VEF": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Gustava Zemgala gatve": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Lēdmanes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "45. vidusskola": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Džutas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Krustabaznīcas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Alfa": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Sporta akadēmija": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Meža skola": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Tirzas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mārkalnes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Jugla": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    }
+  },
+  "\uD83D\uDE8A 2: Stacijas laukums - Tapešu iela": {
+    "Stacijas laukums": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "13. janvāra iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Grēcinieku iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā bibliotēka": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Slokas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "A.Grīna bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "E.Smiļģa iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Āgenskalna tirgus": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Pārslas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ormaņu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kalnciema iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Zasulauka stacija": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Elvīras iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kandavas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Jūrmalas gatve": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Jaunsaules iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Tapešu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    }
+  },
+  "\uD83D\uDE8A 5: Iļģuciems - Mīlgrāvis": {
+    "Iļģuciems": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Buļļu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Saldus iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Pulka sēta": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Baldones iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kalnciema iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nometņu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "A.Grīna bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Uzvaras bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā bibliotēka": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Grēcinieku iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "13. janvāra iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā opera": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālais teātris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ausekļa iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Vašingtona laukums": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Pētersalas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Katrīnas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ganību dambis": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kultūru vidusskola": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Lugažu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Bukultu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Rankas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Rāmuļu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "1.trolejbusu parks": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Rūpnīca 'RER'": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Duntes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Sarkandaugavas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Allažu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Aldaris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Gaujienas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Daudersala": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mīlgrāvis": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    }
+  },
+  "\uD83D\uDE8A 7: Ausekļa iela - Ķengarags": {
+    "Kronvalda bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālais teātris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā opera": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Centrāltirgus": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Maskavas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Elijas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Daugavpils iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mazā Kalna iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Balvu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Lubānas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Atpūtas centrs 'Lido'": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Krasta masīvs": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Dienvidu tilts": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ķengaraga iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Prūšu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Rušonu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Malnavas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Eglaines iela/Dole": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    }
+  },
+  "\uD83D\uDE8A 10: Stacijas laukums - Bišumuiža": {
+    "Stacijas laukums": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "13. janvāra iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Grēcinieku iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā bibliotēka": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Slokas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Arkādijas parks": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Torņakalna stacija": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Satiksmes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Jelgavas iela/Bērnu slimnīca": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Telts iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Viesītes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Skaistkalnes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Stērstu iela/CSDD": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mazā Stērstu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ziepniekkalna iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mazā Bauskas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Doles iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Bišumuiža": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    }
+  },
+  "\uD83D\uDE8A 11: Ausekļa iela - Mežaparks": {
+    "Kronvalda bulvāris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālais teātris": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Nacionālā opera": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Merķeļa iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Dzirnavu iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ģertrūdes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Bērnu pasaule": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Brīvības iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Laima": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Tallinas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mēness iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Kazarmu iela/Lielie kapi": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Brasas stacija": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Brāļu kapi": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "2.Meža kapi": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Gaujas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Rusova iela/Valsts ieņēmumu dienests": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mirdzas Ķempes iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Hamburgas iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Visbijas prospekts": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Mežaparks / ZOO": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    },
+    "Ezermales iela": {
+      "Darba dienas": ["08:00", "12:30", "16:45"],
+      "Brīvdienas": ["10:00", "14:15", "18:30"]
+    }
+  }
+}
+
